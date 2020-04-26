@@ -14,6 +14,7 @@ if (document.getElementById("sqm").checked) {
 
 }
 
+
 if (w==="" || h==="" || d==="") {
     alert("You need a value for each field")
 }
